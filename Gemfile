@@ -11,8 +11,10 @@ ruby '2.3.4'
 gem 'rails', '~> 5.1.5'
 # Use postgresql as the database for Active Record
 gem 'pg', '>= 0.18', '< 2.0'
-# Use botstap library for styles
+# Use bootstap library for styles
 gem 'bootstrap-sass','3.3.7'
+# Use font awesome library for icons
+gem 'font-awesome-sass', '~> 5.0.13'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
